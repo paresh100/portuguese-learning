@@ -27,7 +27,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Oh-lah",
         pronunciation: "o-lah",
         english: "Hello",
-        mnemonic: "Saying 'Oh, la la!' when you meet someone.",
+        mnemonic: "Imagine an 'Owl' named 'Ah' saying Hello to you.",
         category: "Greetings"
     },
     {
@@ -35,7 +35,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Bom jee-ah",
         pronunciation: "bom jee-ah",
         english: "Good morning",
-        mnemonic: "A 'bomb' of daylight.",
+        mnemonic: "Picture an exploding 'Bomb' waking up a 'Jeep' in the morning.",
         category: "Greetings"
     },
     {
@@ -43,7 +43,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Boh-ah noy-chee",
         pronunciation: "boh-ah noy-chee",
         english: "Good evening",
-        mnemonic: "A 'boa' constrictor sleeping at night.",
+        mnemonic: "Think of a 'Boa' constrictor eating 'Noisy Cheese' for dinner in the evening.",
         category: "Greetings"
     },
     {
@@ -51,7 +51,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Ah-deh-oos",
         pronunciation: "ah-deh-oos",
         english: "Goodbye",
-        mnemonic: "Saying 'Adios' but more Portuguese.",
+        mnemonic: "Picture waving goodbye to 'A day' that has 'Ooze' all over it.",
         category: "Greetings"
     },
     {
@@ -59,7 +59,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Prah-zehr",
         pronunciation: "prah-zehr",
         english: "Nice to meet you",
-        mnemonic: "It's a 'pleasure' to meet you.",
+        mnemonic: "Imagine it's nice to meet a 'Prowler' carrying a 'Laser'.",
         category: "Greetings"
     },
     {
@@ -67,7 +67,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Koh-moh vai",
         pronunciation: "koh-moh vai",
         english: "How are you?",
-        mnemonic: "Come over, 'Como' vai?",
+        mnemonic: "Asking a 'Comb' named 'Mo' how it is doing in a 'Van'.",
         category: "Greetings"
     },
 
@@ -77,7 +77,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Oh-bree-gah-doh",
         pronunciation: "oh-bree-gah-doh",
         english: "Thank you",
-        mnemonic: "You are 'obligated' to say thanks.",
+        mnemonic: "Picture an 'Old brie' cheese that 'Got dough' and politely says Thank you.",
         category: "Essentials"
     },
     {
@@ -85,7 +85,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Cohm lee-sen-sah",
         pronunciation: "cohm lee-sen-sah",
         english: "Excuse me",
-        mnemonic: "Asking for 'license' to pass.",
+        mnemonic: "Excuse me, I'm 'Com'ing with a 'License' for my 'Saw'.",
         category: "Essentials"
     },
     {
@@ -93,7 +93,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Seeng",
         pronunciation: "seeng",
         english: "Yes",
-        mnemonic: "Seems like 'sing' but nasal.",
+        mnemonic: "Say 'Yes' to 'Sing'ing a song (with a nasal sound).",
         category: "Essentials"
     },
     {
@@ -101,7 +101,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Now",
         pronunciation: "now (nasal)",
         english: "No",
-        mnemonic: "I want it 'now', say 'não'.",
+        mnemonic: "Say 'No' right 'Now'!",
         category: "Essentials"
     },
     {
@@ -109,7 +109,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Pohr fah-vohr",
         pronunciation: "pohr fah-vohr",
         english: "Please",
-        mnemonic: "Doing a 'favor'.",
+        mnemonic: "Please 'Pour' some 'Flavor' into my drink.",
         category: "Essentials"
     },
     {
@@ -117,7 +117,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Des-kool-peh",
         pronunciation: "des-kool-peh",
         english: "I'm sorry",
-        mnemonic: "This 'cool' pet said sorry.",
+        mnemonic: "Say I'm sorry to 'This cool pet'.",
         category: "Essentials"
     },
     {
@@ -125,7 +125,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Now en-ten-doh",
         pronunciation: "now en-ten-doh",
         english: "I don't understand",
-        mnemonic: "I intend to understand, but I don't.",
+        mnemonic: "I 'Now' play 'Nintendo' because I don't understand my homework.",
         category: "Essentials"
     },
     {
@@ -133,7 +133,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Now fah-loh pohr-too-gays",
         pronunciation: "now fah-loh pohr-too-gays",
         english: "I can't speak Portuguese",
-        mnemonic: "I fail to speak it.",
+        mnemonic: "'Now', I will 'Follow' the 'Poor Two Geese' because I can't speak their language.",
         category: "Essentials"
     },
     {
@@ -141,7 +141,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Too-doh beng",
         pronunciation: "too-doh beng",
         english: "It's okay / All good",
-        mnemonic: "Is all good? 'To do' bang.",
+        mnemonic: "It's all good, a 'Two-toe' sloth just heard a 'Bang'.",
         category: "Essentials"
     },
     {
@@ -149,7 +149,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Leh-gow",
         pronunciation: "leh-gow",
         english: "Cool / Nice",
-        mnemonic: "It's legally cool.",
+        mnemonic: "It's considered 'Cool' to play with 'Lego's.",
         category: "Essentials"
     },
 
@@ -159,7 +159,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Kwan-toh koos-tah",
         pronunciation: "kwan-toh koos-tah",
         english: "How much is it?",
-        mnemonic: "Quantity of cost?",
+        mnemonic: "How much is the 'Quantum' 'Coaster'?",
         category: "Shopping"
     },
     {
@@ -167,7 +167,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Oo kee eh ee-soh",
         pronunciation: "oo kee eh ee-soh",
         english: "What is this?",
-        mnemonic: "Okay is so?",
+        mnemonic: "What is this? 'A key' on an 'Igloo'?",
         category: "Shopping"
     },
     {
@@ -175,7 +175,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Kahr-tow de kreh-jee-toh",
         pronunciation: "kahr-tow ji kreh-jee-toh",
         english: "Credit card?",
-        mnemonic: "Sounds like credit carton.",
+        mnemonic: "Can I use my credit card to buy a 'Carton' of 'Crazy Toes'?",
         category: "Shopping"
     },
     {
@@ -183,7 +183,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Voh leh-vahr",
         pronunciation: "voh leh-vahr",
         english: "I'll take this",
-        mnemonic: "Vow to leave with it.",
+        mnemonic: "I'll take this and 'Vote' for the 'Lever'.",
         category: "Shopping"
     },
     {
@@ -191,7 +191,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Poh-soh proh-vahr",
         pronunciation: "poh-soh proh-vahr",
         english: "Can I try it on?",
-        mnemonic: "Can you prove it fits?",
+        mnemonic: "Can I try it on? I'll 'Pose' like a 'Pro' at the 'Bar'.",
         category: "Shopping"
     },
     {
@@ -199,7 +199,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Oo-mah sah-koh-lah",
         pronunciation: "oo-mah sah-koh-lah",
         english: "A bag",
-        mnemonic: "A sack to hold stuff.",
+        mnemonic: "I need a bag for 'Ouma's' 'Sack of Cola'.",
         category: "Shopping"
     },
 
@@ -209,7 +209,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "On-jee eh oo bahn-yay-roh",
         pronunciation: "on-jee eh oo bahn-yay-roh",
         english: "Where is the toilet?",
-        mnemonic: "Where is the bath room?",
+        mnemonic: "Where is the toilet for 'Angie' the 'Barn Hero'?",
         category: "Directions"
     },
     {
@@ -217,7 +217,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "On-jee eh ah ehs-tah-sown",
         pronunciation: "on-jee eh ah ehs-tah-sown",
         english: "Where is the station?",
-        mnemonic: "Station sounds similar.",
+        mnemonic: "'Angie' is at the station looking at an 'Estate sown' with seeds.",
         category: "Directions"
     },
     {
@@ -225,7 +225,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Em fren-chee",
         pronunciation: "em fren-chee",
         english: "Straight ahead",
-        mnemonic: "In front.",
+        mnemonic: "Straight ahead is 'M' the 'Frenchy' dog.",
         category: "Directions"
     },
     {
@@ -233,7 +233,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Jee-ray-tah",
         pronunciation: "jee-ray-tah",
         english: "Right",
-        mnemonic: "Direction right.",
+        mnemonic: "Turn right at the 'Jeep' with the 'Ray' gun on 'Top'.",
         category: "Directions"
     },
     {
@@ -241,7 +241,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Es-kehr-dah",
         pronunciation: "es-kehr-dah",
         english: "Left",
-        mnemonic: "It's scary on the left.",
+        mnemonic: "Turn left if you see 'S-care' the 'Dog'.",
         category: "Directions"
     },
     {
@@ -249,7 +249,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Ah-kee",
         pronunciation: "ah-kee",
         english: "Here",
-        mnemonic: "Keep it 'aqui'.",
+        mnemonic: "I have 'A key' right here.",
         category: "Directions"
     },
     {
@@ -257,7 +257,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Soh-koh-hoo",
         pronunciation: "soh-koh-hoo",
         english: "Help!",
-        mnemonic: "Soccer hurts, need help.",
+        mnemonic: "Help! 'Soak' a 'Hoo' with water!",
         category: "Directions"
     },
 
@@ -267,7 +267,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Deh-lee-see-oh-zoh",
         pronunciation: "deh-lee-see-oh-zoh",
         english: "Delicious",
-        mnemonic: "It's delicious.",
+        mnemonic: "The 'Deli' 'Sees' an 'Ozone' that is delicious.",
         category: "Food"
     },
     {
@@ -275,7 +275,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Ah-gwah pohr fah-vohr",
         pronunciation: "ah-gwah pohr fah-vohr",
         english: "Water, please",
-        mnemonic: "Aqua.",
+        mnemonic: "'Aqua' please to 'Pour' with 'Flavor'.",
         category: "Food"
     },
     {
@@ -283,7 +283,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Oo kahr-dah-pee-oh",
         pronunciation: "oo kahr-dah-pee-oh",
         english: "Menu, please",
-        mnemonic: "A card of options.",
+        mnemonic: "A menu is like a 'Card' for a 'Happy Oh' meal.",
         category: "Food"
     },
     {
@@ -291,7 +291,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Ah kohn-tah",
         pronunciation: "ah kohn-tah",
         english: "The bill, please",
-        mnemonic: "The count.",
+        mnemonic: "The bill is brought by 'A count' (Count Dracula).",
         category: "Food"
     },
     {
@@ -299,7 +299,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Bom ah-peh-chee-chee",
         pronunciation: "bom ah-peh-chee-chee",
         english: "Let's eat",
-        mnemonic: "Good appetite.",
+        mnemonic: "Let's eat a 'Bomb' of 'Appetite' and 'Cheetahs'.",
         category: "Food"
     },
     {
@@ -307,7 +307,7 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Es-tow sah-chees-fay-toh",
         pronunciation: "es-tow sah-chees-fay-toh",
         english: "I am full. (Thank you)",
-        mnemonic: "Satisfied.",
+        mnemonic: "I'm full from a 'Stow' of 'Salty Cheese' and 'Fay's Toe'.",
         category: "Food"
     },
     {
@@ -315,21 +315,21 @@ const initialPortugueseWords: Word[] = [
         phonetic: "Sah-oo-jee",
         pronunciation: "sah-oo-jee",
         english: "Cheers!",
-        mnemonic: "Saluting to health.",
+        mnemonic: "Cheers! To 'Sawing' an 'O.G.' tree.",
         category: "Food"
     },
 
     // Numbers (10)
-    { portuguese: "Um", phonetic: "Oong", pronunciation: "oong", english: "One", mnemonic: "Numero um.", category: "Numbers" },
-    { portuguese: "Dois", phonetic: "Doys", pronunciation: "doys", english: "Two", mnemonic: "Dos.", category: "Numbers" },
-    { portuguese: "Três", phonetic: "Trehs", pronunciation: "trehs", english: "Three", mnemonic: "Tres.", category: "Numbers" },
-    { portuguese: "Quatro", phonetic: "Kwah-troh", pronunciation: "kwah-troh", english: "Four", mnemonic: "Quarter.", category: "Numbers" },
-    { portuguese: "Cinco", phonetic: "Seen-koh", pronunciation: "seen-koh", english: "Five", mnemonic: "Sink-o.", category: "Numbers" },
-    { portuguese: "Seis", phonetic: "Says", pronunciation: "says", english: "Six", mnemonic: "Says six.", category: "Numbers" },
-    { portuguese: "Sete", phonetic: "Seh-chee", pronunciation: "seh-chee", english: "Seven", mnemonic: "Set seven.", category: "Numbers" },
-    { portuguese: "Oito", phonetic: "Oy-toh", pronunciation: "oy-toh", english: "Eight", mnemonic: "Oh, eighty.", category: "Numbers" },
-    { portuguese: "Nove", phonetic: "Noh-vee", pronunciation: "noh-vee", english: "Nine", mnemonic: "Novice nine.", category: "Numbers" },
-    { portuguese: "Dez", phonetic: "Dehz", pronunciation: "dehz", english: "Ten", mnemonic: "Decimal.", category: "Numbers" }
+    { portuguese: "Um", phonetic: "Oong", pronunciation: "oong", english: "One", mnemonic: "I have 'One' single 'Lung' (Oong).", category: "Numbers" },
+    { portuguese: "Dois", phonetic: "Doys", pronunciation: "doys", english: "Two", mnemonic: "I have 'Two' 'Toys'.", category: "Numbers" },
+    { portuguese: "Três", phonetic: "Trehs", pronunciation: "trehs", english: "Three", mnemonic: "'Three' 'Trays' of food.", category: "Numbers" },
+    { portuguese: "Quatro", phonetic: "Kwah-troh", pronunciation: "kwah-troh", english: "Four", mnemonic: "'Four' 'Quarters' make a dollar.", category: "Numbers" },
+    { portuguese: "Cinco", phonetic: "Seen-koh", pronunciation: "seen-koh", english: "Five", mnemonic: "'Five' ships 'Sink oh' no.", category: "Numbers" },
+    { portuguese: "Seis", phonetic: "Says", pronunciation: "says", english: "Six", mnemonic: "Simon 'Says' number Six.", category: "Numbers" },
+    { portuguese: "Sete", phonetic: "Seh-chee", pronunciation: "seh-chee", english: "Seven", mnemonic: "I have a 'Set' of 'Cheese' with Seven pieces.", category: "Numbers" },
+    { portuguese: "Oito", phonetic: "Oy-toh", pronunciation: "oy-toh", english: "Eight", mnemonic: "'Oh, a Toy' with Eight legs.", category: "Numbers" },
+    { portuguese: "Nove", phonetic: "Noh-vee", pronunciation: "noh-vee", english: "Nine", mnemonic: "I have 'No V' necks, actually I have Nine of them.", category: "Numbers" },
+    { portuguese: "Dez", phonetic: "Dehz", pronunciation: "dehz", english: "Ten", mnemonic: "Ten 'Desks'.", category: "Numbers" }
 ];
 
 // --- Helper Components ---
