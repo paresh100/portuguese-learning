@@ -1,5 +1,6 @@
 'use client';
 import React, { useState, useEffect, useCallback } from 'react';
+import confetti from 'canvas-confetti';
 
 // --- Type Definitions ---
 type Word = {
@@ -608,6 +609,12 @@ const QuizPage = ({ words, allWords, onExitStudy }: { words: Word[], allWords: W
 
         if (option.portuguese === questions[currentQuestionIndex].answer) {
             setScore(score + 1);
+            // Fire short confetti on correct answer
+            confetti({
+                particleCount: 50,
+                spread: 70,
+                origin: { y: 0.6 }
+            });
         }
     };
 
@@ -619,6 +626,14 @@ const QuizPage = ({ words, allWords, onExitStudy }: { words: Word[], allWords: W
             setCurrentQuestionIndex(currentQuestionIndex + 1);
         } else {
             setQuizFinished(true);
+            // Fire big confetti on quiz complete if good score
+            if (score + (selectedAnswer === questions[currentQuestionIndex].answer ? 1 : 0) > questions.length / 2) {
+                confetti({
+                    particleCount: 150,
+                    spread: 100,
+                    origin: { y: 0.3 }
+                });
+            }
         }
     };
 
